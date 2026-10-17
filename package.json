@@ -1,0 +1,5 @@
+{
+  "name": "school-management-system",
+  "private": true,
+  "workspaces": ["server", "client"]
+}
